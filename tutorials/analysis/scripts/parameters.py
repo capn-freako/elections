@@ -21,6 +21,12 @@ params = {
                 "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_heatmap": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share Density by Turnout Percentage",
+                "x_axis_label": "Voter Turnout Percentage",
+                "y_axis_label": "Candidate Vote Share (%)",
+                "candidate": "a",
             }
         }
     },
@@ -43,6 +49,12 @@ params = {
                 "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_heatmap": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share Density by Turnout Percentage",
+                "x_axis_label": "Voter Turnout Percentage",
+                "y_axis_label": "Candidate Vote Share (%)",
+                "candidate": "a",
             }
         },
         "attorney_general": {
@@ -63,6 +75,12 @@ params = {
                 "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_heatmap": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share Density by Turnout Percentage",
+                "x_axis_label": "Voter Turnout Percentage",
+                "y_axis_label": "Candidate Vote Share (%)",
+                "candidate": "a",
             }
         }
     }

@@ -21,6 +21,12 @@ params = {
                 "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "vote_share_histogram": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nPrecinct Count by Candidate Vote Share",
+                "x_axis_label": "Candidate Vote Share (%)",
+                "y_axis_label": "Precinct Count",
+                "bin_size": 2.5,
             }
         }
     },
@@ -43,6 +49,12 @@ params = {
                 "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "vote_share_histogram": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nPrecinct Count by Candidate Vote Share",
+                "x_axis_label": "Candidate Vote Share (%)",
+                "y_axis_label": "Precinct Count",
+                "bin_size": 2.5,
             }
         },
         "attorney_general": {
@@ -63,6 +75,12 @@ params = {
                 "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "vote_share_histogram": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nPrecinct Count by Candidate Vote Share",
+                "x_axis_label": "Candidate Vote Share (%)",
+                "y_axis_label": "Precinct Count",
+                "bin_size": 2.5,
             }
         }
     }

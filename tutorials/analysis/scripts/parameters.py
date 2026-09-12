@@ -22,11 +22,11 @@ params = {
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
             },
-            "turnout_bar_chart": {
-                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nAverage Candidate Vote Share by Turnout Percentage",
+            "turnout_heatmap": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share Density by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
-                "y_axis_label": "Average Candidate Vote Share (%)",
-                "bin_size": 1,
+                "y_axis_label": "Candidate Vote Share (%)",
+                "candidate": "a",
             }
         }
     },
@@ -50,11 +50,11 @@ params = {
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
             },
-            "turnout_bar_chart": {
-                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nAverage Candidate Vote Share by Turnout Percentage",
+            "turnout_heatmap": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share Density by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
-                "y_axis_label": "Average Candidate Vote Share (%)",
-                "bin_size": 1,
+                "y_axis_label": "Candidate Vote Share (%)",
+                "candidate": "a",
             }
         },
         "attorney_general": {
@@ -76,11 +76,11 @@ params = {
                 "x_axis_label": "Voter Turnout Percentage",
                 "y_axis_label": "Candidate Vote Share (%)",
             },
-            "turnout_bar_chart": {
-                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nAverage Candidate Vote Share by Turnout Percentage",
+            "turnout_heatmap": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share Density by Turnout Percentage",
                 "x_axis_label": "Voter Turnout Percentage",
-                "y_axis_label": "Average Candidate Vote Share (%)",
-                "bin_size": 1,
+                "y_axis_label": "Candidate Vote Share (%)",
+                "candidate": "a",
             }
         }
     }
